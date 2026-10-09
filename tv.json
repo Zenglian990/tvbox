@@ -1,0 +1,93 @@
+{
+  "spider": "https://qiniu.gongxueyun.com/upload/6850755/2026-10-05/report/709654417_2_1791217713839.jar;md5;34b70c352eea95ed3ee262117e830f50",
+  "wallpaper": "http://bing.img.run/rand_uhd.php",
+  "sites": [
+    {
+      "key": "sl_adult",
+      "name": "🔞 森林日韩 [7000+部无码/有码/中字/新作]",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fh_adult",
+      "name": "🔞 番号专区 [23万部日韩女优精品]",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "md_91",
+      "name": "🔞 91麻豆传媒 [国产精品无码]",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lb_adult",
+      "name": "🔞 乐播成人 [33万部超大片库]",
+      "type": 1,
+      "api": "http://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Douban",
+      "name": "🌕️ 豆瓣精选 [全网热播/电影/连续剧]",
+      "type": 3,
+      "api": "csp_PianDan",
+      "searchable": 1,
+      "indexs": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "home": {
+          "douban": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/r68R/douban.json",
+          "tmdb": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/yAKC/tmdb.json"
+        }
+      }
+    },
+    {
+      "key": "Wogg",
+      "name": "👽️ 玩偶4K [蓝光极速切片]",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://wogg.xxooo.cf",
+          "https://woggpan.888484.xyz",
+          "https://www.wogg.live"
+        ],
+        "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
+      }
+    },
+    {
+      "key": "CZ",
+      "name": "🏭 厂长影视 [全网超清秒播]",
+      "type": 3,
+      "api": "csp_CZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "SaoHuo",
+      "name": "🌶️ 骚火影视 [院线大片更新]",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
